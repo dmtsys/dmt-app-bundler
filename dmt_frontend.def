@@ -1,0 +1,16 @@
+frontend: computer
+  app: clock
+  app: search
+  app: player
+  app: insight
+  app: draw
+
+frontend: server
+  app: search
+  app: insight
+  app: draw
+
+frontend: raspberry
+  app: clock
+  app: player
+  app: draw
